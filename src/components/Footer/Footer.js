@@ -10,14 +10,6 @@ const Footer = () => {
       <FooterLink
         target="_black"
         rel="noreferrer"
-        href="https://github.com/alete8"
-      >
-        <GitHub size="24px" />
-        <FooterSpan>ALete</FooterSpan>
-      </FooterLink>
-      <FooterLink
-        target="_black"
-        rel="noreferrer"
         href="https://github.com/farvon"
       >
         <GitHub size="24px" />
